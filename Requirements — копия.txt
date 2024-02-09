@@ -1,0 +1,6 @@
+Подключаемые Модули:
+pygame
+random
+
+Github:
+Github
